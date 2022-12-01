@@ -6,3 +6,4 @@
 - [`Some Geometry Algorithm`](./00_Algorithms/Some_Geometri_Algorithm.md)
 
 ## November 24th, 2022
+- [`Numbers`](./00_Algorithms/Numbers.md)
