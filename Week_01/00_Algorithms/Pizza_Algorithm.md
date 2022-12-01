@@ -5,6 +5,7 @@ Design an algorithm to prepare a pizza from scratch. Define the ingredients, wha
 # Solution
 ---
 ## Pepperoni pizza
+```
 1. Have the following ingredients
     - Pizza mass
     - Tomato sauce
@@ -17,3 +18,4 @@ Design an algorithm to prepare a pizza from scratch. Define the ingredients, wha
 6. Add the mozzarella cheese
 7. Bake the pizza for 10 to 12 minutes, or until the crust is golden brown.
 8. Slice, serve and enjoy
+```
