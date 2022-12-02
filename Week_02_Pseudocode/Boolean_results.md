@@ -17,25 +17,31 @@ FinAlgoritmo
 
 # Solution
 ---
-```python
+```c++
 Algoritmo boolean
 	a <- 5 == 3
-  // a = FALSO
-  // Descrip: Se esta comparando si 5 es igual a 3, lo que da como resultado FALSO
+      // Desc: Compare if the number 5 and the number 3 are equals
+      // a = FALSE
+
 	b <- 4 <> 3
-  // a = VERDADERO
-  // Descrip: Se esta comparando si 4 es diferente a 3, lo que da como resultado VERDADERO
+      // Desc: Compare if the number 4 and the number 4 are diferents
+      // a = TRUE
+
 	c <- 7 > 7
-  // c = FALSO
-  // Descrip: Se esta comparando si 7 es mayor a 7, lo que da como resultado FALSO
+      // Desc: Compare if number 7 is greater than number 7
+      // c = FALSE
+
 	d <- 4 < 4
-  // d = FALSO
-  // Descrip: Se esta comparando si 4 es menor a 4, lo que da como resultado FALSO
+      // Descrip: Compare if number 4 is less than number 4
+      // d = FALSE
+
 	e <- 100 <= 90
-  // e = FALSO
-  // Descrip: Se esta comparando si 100 es menor o igual a 90, lo que da como resultado FALSO
+      // Desc: Compare if the number 100 is less than equal to the number 90
+      // e = FALSE
+
 	f <- 40 >= 40
-  // f = VERDADERO
-  // Descrip: Se esta comparando si 40 es mayor o igual a 40, lo que da como resutlado VERDADERO
+      // Desc: Compare if the number 40 is greater than or equal to the number 40
+      // f = TRUE
+
 FinAlgoritmo
 ```
