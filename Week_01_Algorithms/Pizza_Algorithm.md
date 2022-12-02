@@ -4,7 +4,7 @@ Design an algorithm to prepare a pizza from scratch. Define the ingredients, wha
 
 # Solution
 ---
-## Pepperoni pizza
+## Pepperoni pizza 🍕
 ```
 1. Have the following ingredients
     - Pizza mass

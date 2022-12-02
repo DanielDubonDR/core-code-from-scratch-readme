@@ -3,6 +3,8 @@ Define an algorithm that is able to convert temperatures from Celsius to Fahrenh
 
 # Solution
 
+## Temperature 🌡️
+
 1. Choose one of the following options:
     - Convert to Celsius from Fahrenheit
     - Convert to Farenheit from Celsius

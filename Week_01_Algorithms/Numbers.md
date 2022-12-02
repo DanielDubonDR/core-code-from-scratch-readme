@@ -14,4 +14,4 @@ Design an algorithm to check if a number is even or odd. If it is even, write th
 
 ## Flowchart
 
-<img src="./../../Images/FlowChartNumbers.png" alt="drawing" style="width:500px;"/><br>
+<img src="./../Images/FlowChartNumbers.png" alt="drawing" style="width:500px;"/><br>
