@@ -13,17 +13,15 @@ Which chests have treasures?
 # Solution
 ---
 ## Find the treasure
-```
-1. Have the following ingredients
-    - Pizza mass
-    - Tomato sauce
-    - Peperoni slices
-    - Striped mozzarella cheese
-2. Preheat oven to 500°F
-3. Roll dough into a circle about 14 inches in diameter
-4. Add the sauce in a light layer all over the pizza
-5. Add the slices of peperoni
-6. Add the mozzarella cheese
-7. Bake the pizza for 10 to 12 minutes, or until the crust is golden brown.
-8. Slice, serve and enjoy
-```
+- Are three chests. 
+- We know that at least one has a treasure in it. 
+- Each chest has a message, but all the messages are lies.
+
+`Left chest:` is liying so the B chest does not contain a treasure.
+
+`Middle chest:` is lying, some of the chests may contain treasure.
+
+`Right chest:` is lying, there may be more than one treasure
+
+### Result
+``` The chest A and chest C have a treasure ```

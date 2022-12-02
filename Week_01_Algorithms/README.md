@@ -1,4 +1,4 @@
-# CHALLENGES WEEK 2
+# CHALLENGES WEEK 1
 ---
 ## November 23th, 2022
 - [`Pizza Algorithm`](./Pizza_Algorithm.md)
