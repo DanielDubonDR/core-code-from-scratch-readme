@@ -1,9 +1,9 @@
-# CHALLENGES WEEK 1
+# CHALLENGES WEEK 2
 ---
 ## November 23th, 2022
-- [`Pizza Algorithm`](./00_Algorithms/Pizza_Algorithm.md)
-- [`Hot N Cold Algorithm`](./00_Algorithms/Hot_N_Cold_Algorithm.md)
-- [`Some Geometry Algorithm`](./00_Algorithms/Some_Geometri_Algorithm.md)
+- [`Pizza Algorithm`](./Pizza_Algorithm.md)
+- [`Hot N Cold Algorithm`](./Hot_N_Cold_Algorithm.md)
+- [`Some Geometry Algorithm`](./Some_Geometry_Algorithm.md)
 
 ## November 24th, 2022
 - [`Numbers`](./Numbers.md)
