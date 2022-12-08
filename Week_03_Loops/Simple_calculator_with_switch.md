@@ -21,30 +21,18 @@ Algoritmo simpleCalculator
 	Leer number2
 	Escribir 'Enter an operation: +,-,*,/'
 	Leer operation
-	Si operation=='+' O operation=='-' O operation=='*' O operation=='/' Entonces
-		Si operation=='+' Entonces
-			Escribir 'Processing: ',number1,' + ',number2
-			Escribir 'Result: ',number1+number2
-		SiNo
-			Si operation=='-' Entonces
-				Escribir 'Processing: ',number1,' - ',number2
+	Si operation == '+' | operation == '-' | operation == '*' | operation == '/' Entonces
+		Imprimir 'Processing: ',number1,' ',operation,' ',number2
+		Segun operation Hacer
+			'+':
+				Escribir 'Result: ',number1+number2
+			'-':
 				Escribir 'Result: ',number1-number2
-			SiNo
-				Si operation=='*' Entonces
-					Escribir 'Processing: ',number1,' * ',number2
-					Escribir 'Result: ',number1*number2
-				SiNo
-					Si operation=='/' Entonces
-						Si number1>0 Entonces
-							Escribir 'Processing: ',number1,' / ',number2
-							Escribir 'Result: ',number1/number2
-						SiNo
-							Escribir 'Cannot be divided by 0'
-						FinSi
-					FinSi
-				FinSi
-			FinSi
-		FinSi
+			'*':
+				Escribir 'Result: ',number1*number2
+			'/':
+				Escribir 'Result: ',number1/number2
+		Fin Segun
 	SiNo
 		Escribir 'Invalid operation'
 	FinSi

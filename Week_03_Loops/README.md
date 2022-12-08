@@ -5,8 +5,8 @@
 - [`Special number`](./Special_number.md)
 
 ## December 6th, 2022
-- [`Simple calculator with Switch`](./Print_my_name.md)
-- [`Multi Option Program`](./Print_my_name_age.md)
+- [`Simple calculator with Switch`](./Simple_calculator_with_switch.md)
+- [`Multi Option Program`](./Multi_option_program.md)
 
 ## December 7th, 2022
 - [`Multiplication Tables`](./Algorithm_game.md)
