@@ -23,3 +23,22 @@ FinAlgoritmo
 
 # Solution
 ---
+### Pseudocode
+```python
+Algoritmo specialNumber
+	Leer x
+	Si x == 100 Entonces
+		Imprimir 'This is a special number'
+	SiNo
+		Si (x < 1000) & (x % 10 == 0) Entonces
+			Imprimir  'This number is almost special'
+		SiNo
+			Imprimir 'Just a regular number'
+		FinSi
+	FinSi
+FinAlgoritmo
+```
+
+### Result
+
+<img src="./../Images/specialNumber.gif" alt="drawing" style="width:350px;"/><br>
