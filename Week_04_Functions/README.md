@@ -1,7 +1,7 @@
 # CHALLENGES WEEK 4
 ---
 ## December 12th, 2022
-- [`Average sales and commission`](./Simple_calculator.md)
+- [`Average sales and commission`](./Average_sales_commission.md)
 - [`Even or odd`](./Special_number.md)
 
 ## December 13th, 2022
