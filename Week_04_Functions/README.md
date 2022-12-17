@@ -2,7 +2,7 @@
 ---
 ## December 12th, 2022
 - [`Average sales and commission`](./Average_sales_commission.md)
-- [`Even or odd`](./Special_number.md)
+- [`Even or odd`](./Even_or_odd.md)
 
 ## December 13th, 2022
 - [`Predefined functions`](./Simple_calculator_with_switch.md)
