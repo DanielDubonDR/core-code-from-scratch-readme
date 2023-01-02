@@ -16,13 +16,11 @@ Algoritmo Even_Odd
 		FinSi
 	Mientras Que n < 1  | n > 50
 	
-	even =  n % 2 = 0
-	
 	Para i=1 Hasta n Hacer
-		SI i % 2 = 0 & even Entonces
-			Imprimir i
+		SI (i % 2 = 0) & (n % 2 = 0) Entonces
+			Imprimir '- ', i
 		FinSi
-		SI i % 2 = 1 & ~(even) Entonces
+		SI i % 2 = 1 & ~(n % 2 = 0) Entonces
 			Imprimir '- ', i
 		FinSi
 	FinPara
