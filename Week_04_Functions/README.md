@@ -5,7 +5,7 @@
 - [`Even or odd`](./Even_or_odd.md)
 
 ## December 13th, 2022
-- [`Predefined functions`](./Simple_calculator_with_switch.md)
+- [`Predefined functions`](./Predefined_functions.md)
 - [`Full name`](./Multi_option_program.md)
 - [`Throw dice`](./Multi_option_program.md)
 
