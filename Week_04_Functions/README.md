@@ -6,8 +6,8 @@
 
 ## December 13th, 2022
 - [`Predefined functions`](./Predefined_functions.md)
-- [`Full name`](./Multi_option_program.md)
-- [`Throw dice`](./Multi_option_program.md)
+- [`Full name`](./Full_name.md)
+- [`Throw dice`](./Throw_dice.md)
 
 ## December 14th, 2022
 - [`Distance to zero`](./Multiplication_tables.md)
