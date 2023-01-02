@@ -10,8 +10,8 @@
 - [`Throw dice`](./Throw_dice.md)
 
 ## December 14th, 2022
-- [`Distance to zero`](./Multiplication_tables.md)
-- [`Toss coin`](./Simple_calculator_with_do_while.md)
+- [`Distance to zero`](./Distance_to_zero.md)
+- [`Toss coin`](./Toss_coin.md)
 
 ## December 15th, 2022
 - [`Structure of a function`](./Multiplication_tables_with_for.md)
