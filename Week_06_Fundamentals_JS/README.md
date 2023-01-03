@@ -1,19 +1,28 @@
-# CHALLENGES WEEK 4
+# CHALLENGES WEEK 6
 ---
-## December 12th, 2022
-- [`Average sales and commission`](./Average_sales_commission.md)
-- [`Even or odd`](./Even_or_odd.md)
+## January 2nd, 2023
+- `HTML Course`
 
-## December 13th, 2022
-- [`Predefined functions`](./Predefined_functions.md)
-- [`Full name`](./Full_name.md)
-- [`Throw dice`](./Throw_dice.md)
+## January 3rd, 2023
+- [`Development environment`](./Predefined_functions.md)
+- [`Variables`](./Full_name.md)
+- [`What is x?`](./Throw_dice.md)
+- [`Several variables`](./Throw_dice.md)
+- [`Reassignment`](./Throw_dice.md)
+- [`Assign variables`](./Throw_dice.md)
+- [`Several variables`](./Throw_dice.md)
 
-## December 14th, 2022
-- [`Distance to zero`](./Distance_to_zero.md)
-- [`Toss coin`](./Toss_coin.md)
+## January 4th, 2023
+- [`How to use MDN`](./Distance_to_zero.md)
+- [`Functions`](./Toss_coin.md)
+- [`Multiple functions`](./Toss_coin.md)
+- [`Function calls`](./Toss_coin.md)
+- [`What is x? (function version)`](./Toss_coin.md)
+- [`Parameters`](./Toss_coin.md)
 
-## December 15th, 2022
-- [`Structure of a function`](./Structure_of_a_function.md)
-- [`Total price`](./Total_price.md)
-- [`Reverse direction and size`](./Reverse_direction.md)
+## January 5th, 2023
+- [`Strings`](./Structure_of_a_function.md)
+- [`String: length`](./Total_price.md)
+- [`String: toUpperCase()`](./Reverse_direction.md)
+- [`String: charAt()`](./Toss_coin.md)
+- [`String: indexOf()`](./Toss_coin.md)
