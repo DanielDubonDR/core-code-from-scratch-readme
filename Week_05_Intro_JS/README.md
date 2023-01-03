@@ -13,6 +13,6 @@
 - [`Weather average`](./Toss_coin.md)
 
 ## December 22th, 2022
-- [`If`](./If_JS.md)
-- [`While`](./While_JS.md)
-- [`For`](./For_JS.md)
+- [`If JS`](./If.md)
+- [`While JS`](./While.md)
+- [`For JS`](./For.md)
