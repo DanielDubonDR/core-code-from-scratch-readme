@@ -14,6 +14,6 @@
 - [`Toss coin`](./Toss_coin.md)
 
 ## December 15th, 2022
-- [`Structure of a function`](./Multiplication_tables_with_for.md)
-- [`Total price`](./Ascending_and_descending_numbers.md)
-- [`Reverse direction and size`](./Greetings.md)
+- [`Structure of a function`](./Structure_of_a_function.md)
+- [`Total price`](./Total_price.md)
+- [`Reverse direction and size`](./Reverse_direction.md)
