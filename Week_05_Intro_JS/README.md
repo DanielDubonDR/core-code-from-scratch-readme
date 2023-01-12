@@ -1,12 +1,12 @@
 # CHALLENGES WEEK 5
 ---
 ## December 19th, 2022
-- [`Time Converter`](./Average_sales_commission.md)
-- [`Compare distances`](./Even_or_odd.md)
+- [`Time Converter`](./Time_converter.md)
+- [`Compare distances`](./Compare_distances.md)
 
 ## December 20th, 2022
-- [`Sum of pairs`](./Average_sales_commission.md)
-- [`Mid point`](./Even_or_odd.md)
+- [`Sum of pairs`](./Sum_of_pairs.md)
+- [`Mid point`](./Mid_point.md)
 
 ## December 21th, 2022
 - [`Cashier`](./Distance_to_zero.md)
