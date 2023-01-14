@@ -5,7 +5,7 @@ Create a while loop statement with the JavaScript syntax
 
 # Solution
 ---
-### Pseudocode
+### Code
 ```javascript
 let number = 10;
 

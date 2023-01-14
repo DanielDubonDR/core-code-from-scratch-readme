@@ -5,7 +5,7 @@ Create an if statement with the JavaScript syntax
 
 # Solution
 ---
-### Pseudocode
+### Code
 ```javascript
 if(5>2)
 {

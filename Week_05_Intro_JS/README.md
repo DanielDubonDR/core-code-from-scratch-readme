@@ -9,8 +9,8 @@
 - [`Mid point`](./Mid_point.md)
 
 ## December 21th, 2022
-- [`Cashier`](./Distance_to_zero.md)
-- [`Weather average`](./Toss_coin.md)
+- [`Cashier`](./Cashier.md)
+- [`Weather average`](./Weather_average.md)
 
 ## December 22th, 2022
 - [`If JS`](./If.md)
