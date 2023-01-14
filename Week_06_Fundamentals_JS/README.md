@@ -4,13 +4,13 @@
 - `HTML Course`
 
 ## January 3rd, 2023
-- [`Development environment`](./Predefined_functions.md)
-- [`Variables`](./Full_name.md)
-- [`What is x?`](./Throw_dice.md)
-- [`Several variables`](./Throw_dice.md)
-- [`Reassignment`](./Throw_dice.md)
-- [`Assign variables`](./Throw_dice.md)
-- [`Several variables`](./Throw_dice.md)
+- `Development environment`
+- [`Variables`](./Intro01.md)
+- [`What is x?`](./Intro01.md)
+- [`Several variables`](./Intro01.md)
+- [`Reassignment`](./Intro01.md)
+- [`Assign variables`](./Intro01.md)
+- [`Several variables`](./Intro01.md)
 
 ## January 4th, 2023
 - [`How to use MDN`](./Distance_to_zero.md)
