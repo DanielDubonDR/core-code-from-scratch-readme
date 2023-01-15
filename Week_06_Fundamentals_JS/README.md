@@ -21,7 +21,7 @@
 
 ## January 5th, 2023
 - [`Strings`](./Strings.md)
-- [`String: length`](./Strings.md)
-- [`String: toUpperCase()`](./Strings.md)
-- [`String: charAt()`](./Strings.md)
-- [`String: indexOf()`](./Strings.md)
+- [`String: length`](./length.md)
+- [`String: toUpperCase()`](./toUpperCase.md)
+- [`String: charAt()`](./charAt.md)
+- [`String: indexOf()`](./indexOf.md)
