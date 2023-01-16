@@ -47,4 +47,4 @@ var rooms = {
 
 ### Output
 
-<img src="./../Images/objDebug.png" alt="drawing" style="width:350px;"/><br>
+<img src="./../Images/objDebug.png" alt="drawing" style="width:400px;"/><br>
