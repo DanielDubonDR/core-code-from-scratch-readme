@@ -8,10 +8,10 @@
 - [`Boolean`](./boolean.md)
 
 ## January 10rd, 2023
-- [`Get started with Codewars`](./Intro01.md)
-- [`Objects`](./Intro01.md)
-- [`Return to sanity`](./Intro01.md)
-- [`Object syntax debug`](./Intro01.md)
+- `Get started with Codewars`
+- [`Objects`](./objects.md)
+- [`Return to sanity`](./return_to_sanity.md)
+- [`Object syntax debug`](./object_syntax_debug.md)
 
 ## January 11th, 2023
 - [`Count strings in objects`](./Functions.md)
