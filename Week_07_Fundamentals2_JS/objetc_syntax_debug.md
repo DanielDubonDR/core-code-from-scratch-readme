@@ -1,6 +1,6 @@
-## Object syntax debug
+# Object syntax debug
 
-### Description
+## Description
 
 While making a zork-type game, you create an object of rooms. Unfortunately, the game is not working. Find all of the errors in the rooms object to get your game working again.
 
@@ -22,9 +22,9 @@ var rooms = {
 }
 ```
 
-### Solution
+## Solution
 
-This is the solution for the problem:
+### Code
 
 ```JavaScript
 var rooms = {
@@ -44,3 +44,7 @@ var rooms = {
   }
 }
 ```
+
+### Output
+
+<img src="./../Images/objDebug.png" alt="drawing" style="width:350px;"/><br>
