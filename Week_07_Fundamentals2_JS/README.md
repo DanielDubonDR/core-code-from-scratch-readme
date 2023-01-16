@@ -14,9 +14,9 @@
 - [`Object syntax debug`](./object_syntax_debug.md)
 
 ## January 11th, 2023
-- [`Count strings in objects`](./Functions.md)
-- [`Extending JavaScript Objects: Get First & Last Array Element`](./Functions.md)
-- [`Object Oriented Piracy`](./Functions.md)
+- [`Count strings in objects`](./countStrings.md)
+- [`Extending JavaScript Objects: Get First & Last Array Element`](./ExtendingJS.md)
+- [`Object Oriented Piracy`](./objectPiracy.md)
 
 ## January 12th, 2023
 - [`Convert a String to a Number!`](./Strings.md)
