@@ -19,7 +19,7 @@
 - [`Object Oriented Piracy`](./objectPiracy.md)
 
 ## January 12th, 2023
-- [`Convert a String to a Number!`](./Strings.md)
-- [`Convert number to reversed array of digits`](./length.md)
-- [`Truthy and Falsy`](./toUpperCase.md)
-- [`Training JS #4: Basic data types--Array`](./charAt.md)
+- [`Convert a String to a Number!`](./strToNumber.md)
+- [`Convert number to reversed array of digits`](./numberReversed.md)
+- [`Truthy and Falsy`](./trueOrFalse.md)
+- [`Training JS #4: Basic data types--Array`](./Training.md)
