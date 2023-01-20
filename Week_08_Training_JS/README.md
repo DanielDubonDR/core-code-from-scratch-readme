@@ -16,7 +16,7 @@
 - [`Your order, please`](./yourOrder.md)
 
 ## January 19th, 2023
-- [`Counting duplicates`](./basicCalculator.md)
-- [`Encrypt this!`](./basicCalculator.md)
-- [`Valid parentheses`](./basicCalculator.md)
-- [`Convert string to camel case`](./basicCalculator.md)
+- [`Counting duplicates`](./duplicates.md)
+- [`Encrypt this!`](./encript.md)
+- [`Valid parentheses`](./validParentheses.md)
+- [`Convert string to camel case`](./camelCase.md)
