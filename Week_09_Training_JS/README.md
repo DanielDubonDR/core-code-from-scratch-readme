@@ -11,11 +11,11 @@
 - [`Convert string to camel case`](./listLoop.md)
 
 ## January 25th, 2023
-- [`Easy mathematical callback`](./wLikes.md)
-- [`Moving Zeros To The End`](./listLoop.md)
-- [`Valid Parentheses`](./listLoop.md)
+- [`Easy mathematical callback`](./easyMath.md)
+- [`Moving Zeros To The End`](./movingZeros.md)
+- [`Valid Parentheses`](./validPairs.md)
 
 
 ## January 26th, 2023
-- [`The Hashtag Generator`](./listLoop.md)
-- [`String incrementer`](./listLoop.md)
+- [`The Hashtag Generator`](./generator.md)
+- [`String incrementer`](./strIncrement.md)
