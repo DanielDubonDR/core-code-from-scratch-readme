@@ -25,3 +25,4 @@ Hello, feel free to see the repository, here you will find my challenges
 - [`Week 7: Fundamentals JS`](./Week_07_Fundamentals2_JS)
 - [`Week 8: Training JS`](./Week_08_Training_JS)
 - [`Week 9: Training JS`](./Week_09_Training_JS)
+- [`Week 10: Fundamentals React & Calculator Project`](./Week_10_Project1_JS)
