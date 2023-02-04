@@ -1,4 +1,4 @@
-# CHALLENGES WEEK 9
+# CHALLENGES WEEK 10
 ---
 ## January 30rd, 2023
 - [`🧮 Work on the calculator project`](./thisIsProblem.md)
