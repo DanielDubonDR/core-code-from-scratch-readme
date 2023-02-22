@@ -36,8 +36,8 @@ Hello, feel free to see the repository, here you will find my challenges
 
 ## Node JS
 
-- [`Week 12: Node Fundamentals`](./Week_10_Project1_JS/reactFundamentals.md)
-- [`Week 13: Node & DB`](./Week_10_Project1_JS/reactFundamentals.md)
+- [`Week 12: Node Fundamentals`](./Week_12_NodeJS)
+- [`Week 13: Node & DB`](./Week_13_NodeJS&DB)
 
 ## Project
 
