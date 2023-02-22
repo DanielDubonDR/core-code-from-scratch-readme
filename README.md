@@ -29,3 +29,16 @@ Hello, feel free to see the repository, here you will find my challenges
 ## Javascript Project and React Fundamentals
 
 - [`Week 10: React Fundamentals & Calculator Project`](./Week_10_Project1_JS)
+
+## React
+
+- [`Week 11: React`](./Week_10_Project1_JS/reactFundamentals.md)
+
+## Node JS
+
+- [`Week 12: Node Fundamentals`](./Week_10_Project1_JS/reactFundamentals.md)
+- [`Week 13: Node & DB`](./Week_10_Project1_JS/reactFundamentals.md)
+
+## Project
+
+- [`Week 14: Project Integration & SOLID`](./Week_10_Project1_JS/reactFundamentals.md)
