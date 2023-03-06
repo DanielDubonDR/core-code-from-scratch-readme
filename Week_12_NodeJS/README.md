@@ -1,7 +1,7 @@
 # CHALLENGES WEEK 12
 ---
 ## February 13th, 2023
-- [`Time to catch up ⏱️ or play with the React project`]
+- `Time to catch up ⏱️ or play with the React project`
 
 ## February 14th, 2023
 - [`NodeJS Core Understanding`](./01.md)
