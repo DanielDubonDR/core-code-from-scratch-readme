@@ -20,3 +20,6 @@
 - [`Express.JS Core Understanding Learning Exercise 🧠`](./10.md)
 - [`Forrest Gump Ping-Pong API 🏓 Practice 💻`](./11.md)
 - [`Delayed Response API ⏳ Practice 💻`](./12.md)
+
+## Example on class
+- [`Server using http`](./hello.md)
