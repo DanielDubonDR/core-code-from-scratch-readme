@@ -12,7 +12,7 @@
 ## February 15th, 2023
 - [`Client-Server Model Learning Exercise 🧠`](./05.md)
 - [`HTTP Core Understanding Learning Exercise 🧠`](./06.md)
-- [`APIs Core Understanding Learning Exercise 🧠`](./ca07lc.md)
+- [`APIs Core Understanding Learning Exercise 🧠`](./07.md)
 - [`From JSON to REST Learning Exercise 🧠`](./08.md)
 - [`REST API Clients Learning Exercise 🧠`](./09.md)
 
